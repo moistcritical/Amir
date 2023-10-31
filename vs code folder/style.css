@@ -1,0 +1,65 @@
+body {
+    background-color: rebeccapurple;
+  }
+  
+  h1 {
+    color: rebeccapurple;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: fuchsia;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 20px outset fuchsia;
+  }
+  
+  p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: fuchsia;
+    }
+    
+    p1 {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 20px;
+      color: fuchsia;
+      }
+
+      p2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        color: fuchsia;
+        }
+
+    ul {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 16px;
+        color: fuchsia;
+        padding: 16px;
+        list-style: none;
+        
+        }  
+
+        ul li{
+
+          float: left;
+        }
+
+        ul li a {
+          display: block;
+          padding-left: 210px;
+          text-decoration: none;
+          color: fuchsia;
+          text-align: center;
+        }
+
+        img {
+          float: left;
+        }
+
+        .Bubble
+        {
+          float: left;
+          margin: 4px;
+          padding: 6px;
+        }
+      
